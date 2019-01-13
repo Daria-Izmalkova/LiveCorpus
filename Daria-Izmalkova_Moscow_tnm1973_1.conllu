@@ -1,0 +1,264 @@
+tnm@
+
+# sent_id = 89
+# text = иии знаете вот есть люди которые
+!1	иии	иии	INTJ	_	_	2	nsubj	_	_
+2	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	вот	вот	PART	_	_	2	advmod	_	_
+4	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+5	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+6	которые	который	PRON	_	Case=Nom	5	nmod	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 91
+# text = к бегу в принципе
+1	к	к	ADP	_	_	2	case	_	_
+2	бегу	бег	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	0	root	_	_
+!3	в принципе	в принципе	!PARENTH	_	_	2	nmod	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 93
+# text = неспособны они говорят я задыхаюсь я не могу бежать
+1	неспособны	неспособный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	3	obl	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	3	nsubj	_	_
+3	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+5	задыхаюсь	задыхаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	8	xcomp	_	_
+6	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+7	не	не	PART	_	_	8	advmod	_	_
+8	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+9	бежать	бежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 95
+# text = вот я была из таких людей
+1	вот	вот	PART	_	_	6	advmod	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+3	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+4	из	из	ADP	_	_	6	case	_	_
+5	таких	такой	DET	_	Case=Gen|Number=Plur	6	det	_	_
+6	людей	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 97
+# text = я задыхалась я не могу бежать
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	задыхалась	задыхаться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	5	nsubj	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+6	бежать	бежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 99
+# text = и вот
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	вот	вот	PART	_	_	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 101
+# text = эээ
+!1	эээ	эээ	INTJ	_	_	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 103
+# text = я
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 105
+# text = сорок лет думала что я задыхаюсь и не могу бежать и вот в сорок
+1	сорок	сорок	NUM	_	!Case=Acc	2	nummod:gov	_	_
+2	лет	год	NOUN	_	Animacy=Inan|!Case=Acc|Gender=Masc|Number=Plur	3	obl	_	_
+3	думала	думать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	что	что	CONJ	_	Case=Acc	6	obj	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+6	задыхаюсь	задыхаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	ccomp	_	_
+7	и	и	CCONJ	_	_	9	cc	_	_
+8	не	не	PART	_	_	9	advmod	_	_
+9	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	бежать	бежать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	и	и	CCONJ	_	_	14	cc	_	_
+12	вот	вот	PART	_	_	14	advmod	_	_
+13	в	в	ADP	_	_	14	case	_	_
+14	сорок	сорок	NUM	_	Case=Acc	10	conj	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 107
+# text = один год я
+1	один	один	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	2	nummod:gov	_	_
+2	год	год	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	nummod:gov	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 109
+# text = на самом деле почему-то решила
+1	на	на	ADP	_	_	3	case	_	_
+2	самом	самый	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	деле	дело	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+4	почему-то	почему-то	ADV	_	Degree=Pos	5	advmod	_	_
+5	решила	решить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 111
+# text = все-таки попробовать заняться
+1	все-таки	все-таки	PART	_	_	2	advmod	_	_
+2	попробовать	пробовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
+3	заняться	заняться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 113
+# text = бегом трусцой джогингом
+!1	бегом	бег	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	_	_
+2	трусцой	трусца	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	1	obl	_	_
+3	джогингом	джогинг	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 115
+# text = мне хотелось похудеть
+1	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	2	iobj	_	_
+2	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	похудеть	худеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 117
+# text = вот
+1	вот	вот	PART	_	_	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 119
+# text = и я
+1	и	и	CCONJ	_	_	2	cc	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 121
+# text = сказала себе тогда
+1	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	себе	себя	PRON	_	Case=Dat	1	obl	_	_
+3	тогда	тогда	!ADVPRO	_	Degree=Pos	1	advmod	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 123
+# text = ну пусть
+1	ну	ну	PART	_	_	2	discourse	_	_
+2	пусть	пусть	PART	_	_	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 125
+# text = ты не можешь действительно там бегать
+1	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	_
+2	не	не	PART	_	_	3	advmod	_	_
+3	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	действительно	действительно	ADV	_	Degree=Pos	3	advmod	_	_
+5	там	там	ADV	_	Degree=Pos	3	advmod	_	_
+6	бегать	бегать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 127
+# text = задыхаешься
+1	задыхаешься	задыхаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 129
+# text = бегай так чтобы не задыхаться
+!1	бегай	бегать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advmod	_	_
+2	так	так	ADV	_	Degree=Pos	5	mark	_	_
+3	чтобы	чтобы	SCONJ	_	Mood=Cnd	2	fixed	_	_
+4	не	не	PART	_	_	5	advmod	_	_
+5	задыхаться	задыхаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 131
+# text = это первое
+1	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+2	первое	первый	ANUM	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 133
+# text = правило второе правило было продержись хотя бы неделю то есть вот нужно заниматься регулярно нужно хотя бы
+1	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	parataxis	_	_
+2	второе	второй	ANUM	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	_
+3	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	продержись	!продержаться	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	0	root	_	_
+6	хотя	хотя	PART	_	_	8	advmod	_	_
+7	бы	бы	PART	_	_	6	fixed	_	_
+8	неделю	неделя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+9	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	mark	_	_
+10	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	fixed	_	_
+11	вот	вот	PART	_	_	12	advmod	_	_
+!12	нужно	нужно	!PRAEDIC	_	Degree=Pos	5	parataxis	_	_
+13	заниматься	заниматься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	12	csubj	_	_
+14	регулярно	регулярно	ADV	_	Degree=Pos	15	advmod	_	_
+!15	нужно	нужно	PRAEDIC	_	Degree=Pos	13	obl	_	_
+16	хотя	хотя	PART	_	_	15	advmod	_	_
+17	бы	бы	PART	_	_	16	fixed	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 135
+# text = каждый второй день выходить на пробежку я сказала себе я должна продержаться неделю я должна про- выйти на четыре пробежки да вот как через день
+1	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
+2	второй	второй	ANUM	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+4	выходить	выходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+5	на	на	ADP	_	_	6	case	_	_
+6	пробежку	пробежка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+7	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
+8	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	parataxis	_	_
+9	себе	себя	PRON	_	Case=Dat	8	iobj	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	11	nsubj	_	_
+11	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	_
+12	продержаться	!продержаться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	xcomp	_	_
+13	неделю	неделя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	15	nsubj	_	_
+15	должна	должен	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	11	parataxis	_	_
+!16	про	про	X 	_	_	15	advmod	_	SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	_
+18	выйти	выйти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	16	parataxis	_	_
+19	на	на	ADP	_	_	21	case	_	_
+20	четыре	четыре	NUM	_	Animacy=Inan|Case=Acc	21	nummod:gov	_	_
+21	пробежки	пробежка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obl	_	_
+22	да	да	CCONJ	_	_	26	cc	_	_
+23	вот	вот	PART	_	_	26	advmod	_	_
+24	как	как	SCONJ	_	_	26	mark	_	_
+25	через	через	ADP	_	_	26	case	_	_
+26	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obl	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 137
+# text = а потом
+1	а	а	CCONJ	_	_	2	cc	_	_
+2	потом	потом	ADV	_	Degree=Pos	0	root	_	SpacesAfter=\n\n
+
+tnm@
+
+# sent_id = 139
+# text = посмотрим как пойдет
+1	посмотрим	смотреть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+2	как	как	SCONJ	_	_	3	mark	_	_
+3	пойдет	пойти	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	SpacesAfter=\n\n
